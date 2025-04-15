@@ -22,5 +22,7 @@ How to Play
   -------------------
 
 File Info
+
+
  rock-paper-scissor.py: Main game logic.
 
